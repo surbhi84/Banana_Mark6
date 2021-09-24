@@ -30,3 +30,13 @@ img {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+textarea {
+  width: 60vw;
+  height: 20vh;
+  background-color: khaki;
+  font-size: 1rem;
+  border-radius: 8px;
+  border: 0.2rem solid midnightblue;
+  margin: 1rem;
+}
