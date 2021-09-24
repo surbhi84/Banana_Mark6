@@ -56,3 +56,15 @@ textarea {
 #btn-translate:hover {
   transform: scale(1.1);
 }
+
+#text-output {
+  width: 60vw;
+  height: 20vh;
+  background-color: khaki;
+  border: 0.2rem solid midnightblue;
+  border-radius: 8px;
+  margin: 1rem;
+  /* margin-bottom: auto; */
+  font-size: 1.3rem;
+  color: navy;
+}
