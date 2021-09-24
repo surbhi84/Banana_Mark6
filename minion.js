@@ -21,3 +21,8 @@ function clickHandler() {
     });
   // .catch(errorHandler());
 }
+
+function errorHandler() {
+  console.log("an error occured");
+  alert("the server is unavailable try later!");
+}
