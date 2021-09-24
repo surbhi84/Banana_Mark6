@@ -40,3 +40,19 @@ textarea {
   border: 0.2rem solid midnightblue;
   margin: 1rem;
 }
+
+#btn-translate {
+  color: navy;
+  background-color: yellow;
+  font-size: 1.4rem;
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 5px;
+  border-color: midnightblue;
+  height: 4rem;
+  width: 8rem;
+}
+
+#btn-translate:hover {
+  transform: scale(1.1);
+}
