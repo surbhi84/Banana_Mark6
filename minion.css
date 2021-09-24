@@ -12,6 +12,9 @@ header {
   -webkit-text-stroke-color: ;
   background-color: khaki;
   display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
 
 img {
