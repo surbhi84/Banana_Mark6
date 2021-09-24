@@ -73,3 +73,24 @@ footer {
   margin-top: auto;
   margin-bottom: 0;
 }
+
+@media screen and (max-width: 480px) {
+  header {
+    font-size: 2rem;
+    padding: 1rem;
+  }
+  h1 {
+    padding-left: 1rem;
+  }
+  img {
+    margin: 0.1rem;
+  }
+  textarea {
+    width: 60vw;
+    height: 15vh;
+  }
+  #text-output {
+    width: 60vw;
+    height: 15vh;
+  }
+}
