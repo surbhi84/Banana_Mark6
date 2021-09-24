@@ -68,3 +68,8 @@ textarea {
   font-size: 1.3rem;
   color: navy;
 }
+
+footer {
+  margin-top: auto;
+  margin-bottom: 0;
+}
