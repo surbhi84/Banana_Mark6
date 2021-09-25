@@ -99,3 +99,21 @@ footer {
     height: 15vh;
   }
 }
+footer {
+  background-color: #88f3d9;
+  margin: 0;
+  text-align: center;
+}
+
+li {
+  display: inline;
+  list-style: none;
+  margin: 1rem;
+  font-size: 1.3rem;
+}
+
+ul {
+  text-align: center;
+  padding-left: 0;
+  padding: 1rem;
+}
