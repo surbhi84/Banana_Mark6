@@ -24,6 +24,7 @@ header {
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: midnightblue;
   margin-top: 1rem;
+  margin-bottom: 2rem;
 }
 
 img {
@@ -41,7 +42,7 @@ img {
 }
 
 textarea {
-  width: 60vw;
+  width: 50vw;
   height: 20vh;
   background-color: khaki;
   font-size: 1rem;
@@ -67,7 +68,7 @@ textarea {
 }
 
 #text-output {
-  width: 60vw;
+  width: 50vw;
   height: 20vh;
   background-color: khaki;
   border: 0.2rem solid midnightblue;
@@ -105,8 +106,8 @@ footer {
 }
 
 footer {
-  background-color: midnightblue;
   margin: 0;
+  padding-top: 2.5rem;
   text-align: center;
 }
 
@@ -121,12 +122,16 @@ ul {
   text-align: center;
   padding-left: 0;
   padding: 1rem;
+  list-style: none;
 }
 
 i {
-  color: khaki;
+  color: navy;
+  background-color: yellow;
+  padding: 3px;
+  border-radius: 10px;
 }
 
 #legacyText {
-  color: khaki;
+  color: navy;
 }
